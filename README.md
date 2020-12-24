@@ -1,6 +1,8 @@
 # Fullstack Google api Books Search
 
-Node app that pulls data from google books api into a mongo db, then presents the data via react native and express routes.
+https://googleapibooksearchapp.herokuapp.com/
+
+Application utilizing google books api.
 
 ![test](assets/apptest.gif)
 
